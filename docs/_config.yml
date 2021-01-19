@@ -1,6 +1,6 @@
 show_downloads: false
 google_analytics:
-remote_theme: "Urio/gh-pages"
+remote_theme: "gabrieliusbagocius/Urio/gh-pages"
 show_header: true
 
 sass:
