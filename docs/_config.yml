@@ -1,1 +1,7 @@
-remote_theme: "gh-pages"
+show_downloads: false
+google_analytics:
+remote_theme: "Urio/gh-pages"
+show_header: true
+
+sass:
+    style: compressed
