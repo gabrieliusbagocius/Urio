@@ -1,10 +1,6 @@
 # Urio
 A simple endless 2D jumper - made with Unity
 
-Videos!
-
-![](Media/Urio.mkv)
-
 Pictures!
 
 ![](Media/Menu.png)
